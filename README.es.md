@@ -9,7 +9,7 @@ Juego de ajedrez para dos jugadores en la consola de Windows. Toda la lógica de
 - Mario Andrés Rojas Varela
 - Sebastián Josué Sandí Blanco
 
-**Demo:** _(agregar aquí el enlace al video o un GIF de la partida)_
+**Demo:** _https://youtu.be/2ouz1pZpi7w_
 
 ---
 
