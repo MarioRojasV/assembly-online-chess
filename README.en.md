@@ -11,7 +11,7 @@ A two-player chess game for the Windows console. All game logic and the user int
 - Mario Andrés Rojas Varela
 - Sebastián Josué Sandí Blanco
 
-**Demo:** _(add a link to the video or a GIF of a game here)_
+**Demo:** _https://youtu.be/2ouz1pZpi7w_
 
 ---
 
