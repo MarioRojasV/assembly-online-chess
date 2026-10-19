@@ -10,7 +10,7 @@ Juego de ajedrez para dos jugadores en la consola de Windows. Toda la lógica de
 - Sebastián Josué Sandí Blanco
 
 **Demo:** _https://youtu.be/2ouz1pZpi7w_
-![Demo](docs/demo_gif.gif)
+![Demo](docs/demo.gif)
 
 ---
 
