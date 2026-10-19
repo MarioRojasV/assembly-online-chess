@@ -12,7 +12,7 @@ A two-player chess game for the Windows console. All game logic and the user int
 - Sebastián Josué Sandí Blanco
 
 **Demo:** _https://youtu.be/2ouz1pZpi7w_
-![Demo](docs/demo_gif.gif)
+![Demo](docs/demo.gif)
 
 ---
 
